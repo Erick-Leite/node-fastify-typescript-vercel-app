@@ -3,19 +3,11 @@
   "version": "0.0.1",
   "description": "",
   "type": "module",
-  "main": "src/server.ts",
-  "scripts": {
-    "dev": "tsx watch src/server.ts",
-    "deploy": "npx vercel --prod"
-  },
-  "keywords": [
-    "Node",
-    "Fastify",
-    "TypeScript",
-    "Vercel"
-  ],
+  "main": "",
+  "scripts": {},
+  "keywords": [],
   "author": "Erick Leite",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "dependencies": {
     "@fastify/cors": "^10.0.1",
     "dotenv": "^16.4.5",
