@@ -1,0 +1,11 @@
+{
+  "name": "node-fastify-typescript-vercel-app",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "Erick Leite",
+  "license": "MIT"
+}
