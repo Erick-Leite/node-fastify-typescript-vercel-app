@@ -7,7 +7,12 @@
   "scripts": {
     "dev": "tsx watch src/server.ts"
   },
-  "keywords": [],
+  "keywords": [
+    "Node",
+    "Fastify",
+    "TypeScript",
+    "Vercel"
+  ],
   "author": "Erick Leite",
   "license": "UNLICENSED",
   "dependencies": {
