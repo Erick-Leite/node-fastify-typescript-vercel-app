@@ -8,7 +8,12 @@
     "dev": "tsx watch src/server.ts",
     "deploy": "npx vercel --prod"
   },
-  "keywords": [],
+  "keywords": [
+    "Node",
+    "Fastify",
+    "TypeScript",
+    "Vercel"
+  ],
   "author": "Erick Leite",
   "license": "MIT",
   "dependencies": {
