@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "type": "module",
-  "main": "",
+  "main": "src/server.ts",
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "deploy": "npx vercel --prod"
