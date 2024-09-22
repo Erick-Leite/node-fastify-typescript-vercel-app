@@ -5,7 +5,8 @@
   "type": "module",
   "main": "",
   "scripts": {
-    "dev": "tsx watch src/server.ts"
+    "dev": "tsx watch src/server.ts",
+    "deploy": "npx vercel --prod"
   },
   "keywords": [],
   "author": "Erick Leite",
