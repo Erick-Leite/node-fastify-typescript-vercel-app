@@ -277,4 +277,4 @@ Contribuições são bem-vindas! Para contribuir, por favor, fork este repositó
 
 ### Licença
 
-Este projeto está licenciado sob a MIT License.
+Este projeto está sob a Unlicense. Você pode copiar, modificar, distribuir e executar o software, sem nenhuma restrição.
